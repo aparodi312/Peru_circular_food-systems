@@ -1,0 +1,51 @@
+from,to,value,source,type
+Coast,Sales,769152.5,0,3
+Coast,Self consumption,25801.25,0,4
+Coast,Self input,71340.29,0,5
+Coast,Feed for own animals,90015.33,0,6
+Andes,Sales,665617.88,1,3
+Andes,Self consumption,510454.1,1,4
+Andes,Self input,14573.91,1,5
+Andes,Feed for own animals,413153.45,1,6
+Amazon,Sales,1063705.48,2,3
+Amazon,Self consumption,141658.26,2,4
+Amazon,Self input,21893.9,2,5
+Amazon,Feed for own animals,368311.7,2,6
+Sales,Fruits,432048.48,3,7
+Sales,Agro inudstry,830418.57,3,8
+Sales,Cultivated grasslands,62663.18,3,9
+Sales,Tree crops,41569.61,3,10
+Sales,Cereals,575291.71,3,11
+Sales,Vegetables,58424.29,3,12
+Sales,Legumes,95164.13,3,13
+Sales,Tubers and Roots,247183.08,3,14
+Sales,Roughage,16727.15,3,15
+Sales,Flowers,3502.44,3,16
+Sales,Other crops,135483.22,3,17
+Self consumption,Fruits,60617,4,7
+Self consumption,Agro inudstry,7325,4,8
+Self consumption,Tree crops,12.3,4,10
+Self consumption,Cereals,237545.49,4,11
+Self consumption,Vegetables,5794.69,4,12
+Self consumption,Legumes,55583,4,13
+Self consumption,Tubers and Roots,263085.56,4,14
+Self consumption,Other crops,47951,4,17
+Self input,Fruits,13663.27,5,7
+Self input,Agro inudstry,70303.65,5,8
+Self input,Cultivated grasslands,5730.27,5,9
+Self input,Tree crops,1866.33,5,10
+Self input,Cereals,4656.46,5,11
+Self input,Vegetables,1112.37,5,12
+Self input,Legumes,1302.1,5,13
+Self input,Tubers and Roots,7141.47,5,14
+Self input,Roughage,732.45,5,15
+Self input,Flowers,51.77,5,16
+Self input,Other crops,1247.95,5,17
+Feed for own animals,Fruits,781.75,6,7
+Feed for own animals,Agro inudstry,287,6,8
+Feed for own animals,Cultivated grasslands,709668.39,6,9
+Feed for own animals,Tree crops,334.45,6,10
+Feed for own animals,Cereals,50236.88,6,11
+Feed for own animals,Roughage,64857.02,6,15
+Feed for own animals,Flowers,2.74,6,16
+Feed for own animals,Other crops,45312.14,6,17

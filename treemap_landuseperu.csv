@@ -1,0 +1,22 @@
+country,region,type,type2,ha
+Peru,Coast,Non agricultural area,Non agricultural area,15087282
+Peru,Andes,Non agricultural area,Non agricultural area,35898894
+Peru,Amazon,Non agricultural area,Non agricultural area,77535384
+Peru,Coast,Agricultural area,Crops,956309.36
+Peru,Coast,Agricultural area,Fallow land,429004.36
+Peru,Coast,Agricultural area,Not in use,301463.84
+Peru,Coast,Agricultural area,Natural grasslands,1729745.49
+Peru,Coast,Agricultural area,Forests and shrubs,444742.04
+Peru,Coast,Agricultural area,Other uses,579888.8
+Peru,Andes,Agricultural area,Crops,1603799.34
+Peru,Andes,Agricultural area,Fallow land,1454495.28
+Peru,Andes,Agricultural area,Not in use,237712.78
+Peru,Andes,Agricultural area,Natural grasslands,15550745.77
+Peru,Andes,Agricultural area,Forests and shrubs,1554593.68
+Peru,Andes,Agricultural area,Other uses,1867923.08
+Peru,Amazon,Agricultural area,Crops,1595569.33
+Peru,Amazon,Agricultural area,Fallow land,310947
+Peru,Amazon,Agricultural area,Not in use,235705.62
+Peru,Amazon,Agricultural area,Natural grasslands,738303.35
+Peru,Amazon,Agricultural area,Forests and shrubs,8939938.71
+Peru,Amazon,Agricultural area,Other uses,211575.96

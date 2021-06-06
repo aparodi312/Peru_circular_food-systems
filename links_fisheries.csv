@@ -1,0 +1,38 @@
+from,to,value,Reference,source,type 
+Anchoveta,Destined for animal feed,6072.88,Pag 40-41,0,7
+Anchoveta,Destined for human food,121.955,Pag 40-41,0,8
+Squid,Destined for human food,362.232,Pag 40-41,1,8
+Bonito,Destined for human food,81.795,Pag 40-41,2,8
+Hake,Destined for human food,76.416,Pag 40-41,3,8
+Mackerel,Destined for human food,72.002,Pag 40-41,4,8
+Aquaculture,Destined for human food,70.164,Pag 40-41,5,8
+Other species,Destined for human food,441.652,"Calculated by summing all species except anchoveta, pota, bonito, jurel y caballa - Pag 40-41",6,8
+Destined for animal feed,Reduced,1759,Calculated sum fish meal plus fish oil,7,10
+Destined for human food,Processed,444.1,"Calculated sum canned, frozen, cured and others",8,11
+Destined for human food,Fresh,449.57,Pag 40-41,8,14
+Imports,Fresh,43.051,Pag  93,9,14
+Imports,Canned,20.029,Pag  93,9,15
+Imports,Frozen,84.056,Pag  93,9,16
+Imports,Cured,1.101,Pag  93,9,17
+Imports,Others,16.587,Pag  93,9,18
+Reduced,Fish meal,1491,Pag 75,10,12
+Reduced,Fish oil,268,Pag 73,10,13
+Processed,Canned,64.6,Pag 73,11,15
+Processed,Frozen,322.8,Pag 73,11,16
+Processed,Cured,29.9,Pag 73,11,17
+Processed,Others,26.8,Pag 92,11,18
+Fish meal,Domestic market,32.105,Pag 92,12,19
+Fish oil,Domestic market,24.183,Pag 92,13,19
+Fresh,Domestic market,492.621,Pag 92,14,19
+Canned,Domestic market,44.815,Pag 92,15,19
+Frozen,Domestic market,139.309,Pag 92,16,19
+Cured,Domestic market,5.251,Pag 92,17,19
+Others,Domestic market,26.8,Pag 92,18,19
+Fish meal,Exports,1026.683,Pag 104 and 105,12,20
+Fish oil,Exports,197.07,Pag 104,13,20
+Canned,Exports,29.9,Pag 104,15,20
+Frozen,Exports,336.9,Pag 104,16,20
+Cured,Exports,37.2,Pag 104,17,20
+Others,Exports,23.1,Pag 104,18,20
+Fish meal,Unreported,432.212,Calculated by difference (supply - (local + exports),12,21
+Fish oil,Unreported,46.747,Calculated by difference (supply - (local + exports),13,21
